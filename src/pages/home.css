@@ -1,0 +1,62 @@
+.legend{
+    height: 300px;
+
+    
+}
+.legend h1{
+    margin-top: 10px;
+    text-align: left;
+    color: rgb(169, 242, 97);
+    font-size: 50px;
+}
+.legend p{
+    color: bisque;
+    font-size: 21px;
+    text-align: left;
+    font-weight: lighter;
+}
+
+.ser{
+    background-color: azure;
+    height: 300px;
+     margin-top: 5px; 
+    width: 200px;
+    box-shadow: 2.5px 2.5px rgb(219, 218, 218);
+}
+.ser1{
+    margin-top: 10px;
+    text-align: center;
+}
+.icons{
+     padding-top: 50px; 
+    font-size: 30px;
+    text-align: center;
+    color: rgb(101, 101, 238);
+}
+.testimonial h1{
+    margin-top: 50px;
+}
+.testibox{
+    box-shadow: 2.5px 2.5px  rgb(219, 218, 218);
+    height: 250px;
+    margin-top: 20px;
+}
+.testi{
+    display: flex;
+    
+}
+.dp img{
+    border-radius: 100%;
+}
+.name{
+    text-align: left;
+    margin-left: 30px;
+    font-size: 25px;
+}
+.pos{
+    text-align: left;
+    color: rgb(173, 170, 170);
+}
+.talk{
+    text-align: left;
+}

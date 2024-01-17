@@ -1,0 +1,24 @@
+.top{
+    margin-top: 30px;
+}
+.hd{
+    text-align: left;
+    margin-left: 30px;
+}
+.hd1{
+    text-align: left;
+    margin-left: 30px;
+}
+.team{
+    margin-top: 50px;
+    text-align: center;
+}
+.posi{
+    text-align: center;
+    color: rgb(163, 159, 159);
+}
+
+.box{
+    margin-top: 10px;
+    box-shadow: 2px 2px rgb(199, 198, 198);
+}

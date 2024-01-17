@@ -1,0 +1,12 @@
+.nav-link{
+    text-decoration: none;
+}
+/* header.css */
+
+/* Add a hover effect for nav links */
+.navbar-nav .nav-item .nav-link:hover {
+    background-color: #007bff; /* Change to the desired hover background color */
+    color: #fff; /* Change to the desired text color on hover */
+    transition: background-color 0.3s, color 0.3s; /* Add a smooth transition effect */
+  }
+  
